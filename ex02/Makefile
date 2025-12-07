@@ -6,11 +6,11 @@
 #    By: dtanski <dtanski@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/05/31 05:10:32 by dtanski           #+#    #+#              #
-#    Updated: 2025/12/04 18:05:11 by dtanski          ###   ########.fr        #
+#    Updated: 2025/12/04 20:20:13 by dtanski          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME =  iter
+NAME =  array
 
 CC = c++
 CFLAGS = -Wall -Wextra -Werror -Wshadow -std=c++98 -g -I inc/
